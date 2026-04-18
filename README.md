@@ -11,8 +11,6 @@ In this Wifi MITM project, we examine the privacy concern connected with WIFI in
 - <b>Azure Cloud</b>
 
 <h1>Initial Threats analysis</h1>
-<br>
-<br>
 <h2>Configuring Bettercap</h2>
 <p>On our Kali Linux machine, connect to the open wifi network (or any wifi you're allowed to sniff) using a bridges connection in your VM.</p><<br>
 <p>Identify which interface you connect to the wifi (normally eth0):</p>
@@ -51,7 +49,6 @@ net.sniff on
 
 ---
 <h1>Setting up your own VPN with no logs</h1>
-<br>
 <h2 How VPN works></h2>
 <br>
 <p>Assuming that you have a typical Internet connection like this</p>
